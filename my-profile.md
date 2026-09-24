@@ -19,4 +19,4 @@
 | 韓國叔叔-新竹店 | 高中打工 |
 
 ```python
-print("Hello, Markdown!")
+print("Hello, World!")
