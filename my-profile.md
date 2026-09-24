@@ -1,4 +1,3 @@
-<img width="6000" height="4000" alt="IMG_0423" src="https://github.com/user-attachments/assets/4a5d8b81-25c2-4659-b2c2-7f44fc693d37" />
 # 呂侑恩
 ## 想順利畢業
 
@@ -10,9 +9,9 @@
 
 [一生推]<https://www.youtube.com/watch?v=5pQjvcG0Dvk>
 
-![個人頭像](https://via.placeholder.com/150)
+<img width="6000" height="4000" alt="IMG_0423" src="https://github.com/user-attachments/assets/4a5d8b81-25c2-4659-b2c2-7f44fc693d37" />
 
-> 「學而不思則罔，思而不學則殆。」—— 孔子
+> 「做或不做，沒有試試看。」—— 尤達
 
 | 年份 | 工作經驗 / 教育背景 | 職稱 / 學位 |
 | :--- | :--- | :--- |
