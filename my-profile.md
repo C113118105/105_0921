@@ -1,3 +1,4 @@
+<img width="6000" height="4000" alt="IMG_0423" src="https://github.com/user-attachments/assets/4a5d8b81-25c2-4659-b2c2-7f44fc693d37" />
 # 呂侑恩
 ## 想順利畢業
 
