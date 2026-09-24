@@ -1,14 +1,13 @@
-# 小明
+# 呂侑恩
+## 想順利畢業
 
-## 關於我
+* **溝通協調**
+* 生活小智慧
+* AI工具運用
 
-* **Python 程式開發**
-* HTML/CSS 網頁設計
-* 數據分析與處理
+*所有人都是某些事物的奴隸*
 
-*保持好奇心，持續學習與探索。*
-
-[前往我最喜歡的網站：GitHub](https://github.com)
+[一生推]<https://www.youtube.com/watch?v=5pQjvcG0Dvk>
 
 ![個人頭像](https://via.placeholder.com/150)
 
